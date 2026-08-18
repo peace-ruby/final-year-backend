@@ -1,0 +1,108 @@
+[
+  {
+    "id": "09f03e96-dcad-4eac-81ed-4dfc1e224f28",
+    "name": "Tatyana Koch",
+    "email": "gyzaredip@mailinator.com",
+    "password": "$2a$10$YaNeL1o.l4sp43AHWzspn.wNqqgwQ4Apci0MTIK71lOlDzMAf/1q.",
+    "createdAt": "2026-06-09T09:50:06.927Z"
+  },
+  {
+    "id": "3ea8a0be-d03e-4be5-80bb-8353490c617e",
+    "name": "Jillian Jensen",
+    "email": "rezupuzeso@mailinator.com",
+    "password": "$2a$10$/I6mlJBOj42qdXpd9zuAGOMVH8SrpM/DX5n86PFN9lu4Yi3RFAuj.",
+    "createdAt": "2026-06-09T09:51:07.350Z"
+  },
+  {
+    "id": "674b989f-c3e5-4ca0-81f7-00d4a3c9e687",
+    "name": "Ezra Mccarty",
+    "email": "jorepavoc@mailinator.com",
+    "password": "$2a$10$SWBXIrUHpTxz56I7HZu.hO9UUsX2Na7Z65ttHLvMrdjJU9dHy.pqG",
+    "createdAt": "2026-06-09T09:55:26.722Z"
+  },
+  {
+    "id": "b4c2b881-df1c-4b76-b5dd-703673ba93fc",
+    "name": "Nyssa Mcguire",
+    "email": "gevix@mailinator.com",
+    "password": "$2a$10$QoOk01j3O7XW1HkjvHSsv.QD5Eb20YkswAz4TIkxM8eETEHe9fiHq",
+    "createdAt": "2026-06-09T10:04:59.868Z"
+  },
+  {
+    "id": "36a829fc-a010-4f41-8ea3-cb4b66a6da5e",
+    "name": "Zephania Acosta",
+    "email": "zefatohafe@mailinator.com",
+    "password": "$2a$10$fywF4BVKbCUwVsV3uys88eQMERj/YVTOGvUUu7lSthHzRYmL5oQW.",
+    "createdAt": "2026-06-09T10:06:23.897Z"
+  },
+  {
+    "id": "5d664811-f9ce-4f51-9928-3e115cf6ae8c",
+    "name": "Tilux Israel",
+    "email": "adekolaisrael03@gmail.com",
+    "password": "$2a$10$cHruH6TLaHDCtb/o/dUNTe.vfQGS5gCCJppvDx0QxIofFNAQq5iL.",
+    "createdAt": "2026-07-29T12:24:33.504Z"
+  },
+  {
+    "id": "bd208a95-b9a7-4da6-a11f-74312c023a4b",
+    "name": "Test User2",
+    "email": "testuser2+1786619146691@example.com",
+    "password": "$2a$10$Y9EnDTFAyk5ns/Mjdq.3Buhrna3hgu.0OPcdxpQa/ZNS/3WHGI7Fq",
+    "createdAt": "2026-08-13T11:05:47.060Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "ed20bf46-ba2f-4805-afb0-d0d471eec5cf",
+    "name": "Ria Odonnell",
+    "email": "loxogilije@mailinator.com",
+    "password": "$2a$10$4rnLQm2LYlaGLr44QOkO0.QpxiGqjCfrprUkNmFI//yoH9klt0WDy",
+    "createdAt": "2026-08-13T11:06:51.102Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "8577689a-d246-444d-b086-a6d3f37800e4",
+    "name": "Kirk Suarez",
+    "email": "zojadacuba@mailinator.com",
+    "password": "$2a$10$poFTUDwrIfNsXaJizQHXXORBShYEhNyL0wFebmGbY2UC.dvtAxR22",
+    "createdAt": "2026-08-13T22:14:47.750Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "11915591-e3f5-45e3-b37e-49d9768e0b63",
+    "name": "Ivan Mccormick",
+    "email": "navi@mailinator.com",
+    "password": "$2a$10$Zjzz7J7flnOpUE5kEvpy6O/qTSUBnu9WeZ8FQcGkcR6DL4BWNCOWq",
+    "createdAt": "2026-08-14T08:48:33.426Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "8ab357ea-0b85-4f7d-9b01-dcc3c186ab44",
+    "name": "Harding Berg",
+    "email": "coxevydam@mailinator.com",
+    "password": "$2a$10$BAoSV/3PrE6nFDro1VA/..3rKCXy0mOQ7mtUYSxhoLqM789tUA8em",
+    "createdAt": "2026-08-14T08:58:40.460Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "aa67e2e2-7ee1-4c55-8166-a52d0ce2b580",
+    "name": "Melodie Vasquez",
+    "email": "metyguvu@mailinator.com",
+    "password": "$2a$10$WBq7gaPGwW13kaPBHPfjYeyGtfAXrWvxYc6JCubIBYi03dDakv1Ce",
+    "createdAt": "2026-08-14T10:08:41.809Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "75fbbc3f-40d8-458e-ba9c-971eaeb8e13d",
+    "name": "Paula Dodson",
+    "email": "winy@mailinator.com",
+    "password": "$2a$10$rzVyIvjGyXO1c9OOX2VwZO80qmKKlximPhyuIOFvzS/I6FhIYu7rq",
+    "createdAt": "2026-08-14T13:12:33.843Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "0037b26c-ab2f-4ba8-b968-c59c1a0bed35",
+    "name": "Mikayla Hampton",
+    "email": "vasih@mailinator.com",
+    "password": "$2a$10$1TFPGow7OC81saKr187DlecuCjwcYOI6Mec44eqfY.chwxB2r2dWK",
+    "createdAt": "2026-08-18T21:26:48.980Z",
+    "privacyAccepted": true
+  }
+]
