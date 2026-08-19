@@ -104,5 +104,21 @@
     "password": "$2a$10$1TFPGow7OC81saKr187DlecuCjwcYOI6Mec44eqfY.chwxB2r2dWK",
     "createdAt": "2026-08-18T21:26:48.980Z",
     "privacyAccepted": true
+  },
+  {
+    "id": "5b3496d7-9650-433c-afef-4eb38f8af2ef",
+    "name": "mmmmmmmm",
+    "email": "bh@ff.nn",
+    "password": "$2a$10$RGsvyQLAxtrcbsWaQ0x0MOUGsFD0ddb5GNY0FWDmmDpUencYU/L8u",
+    "createdAt": "2026-08-19T22:57:16.754Z",
+    "privacyAccepted": true
+  },
+  {
+    "id": "ec7fefaa-d7f0-406b-afb4-64beec6d99a5",
+    "name": "ffffffff",
+    "email": "adegboyegablessin@gmail.com",
+    "password": "$2a$10$HICurh6b4D911XidIQcGVuGHU8gA6nXHziP70rpOcRbOKMG4OPnXG",
+    "createdAt": "2026-08-19T23:24:05.960Z",
+    "privacyAccepted": true
   }
 ]
